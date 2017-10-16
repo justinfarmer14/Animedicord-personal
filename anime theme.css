@@ -1,8 +1,8 @@
-//META{"name":"ReZero_Anime","description":"ReZero anime theme. Also this theme updates automatically so just reload and you're good.","author":"CreamCheese (C.C.)","version":"2.3"}*//
+//META{"name":"Anime","description":"customizable anime theme. Also this theme updates automatically so just reload and you're good.","author":"CreamCheese (C.C.)& BUK","version":"2.4"}*//
 
 {} /* Background */
 .app {
-    background-image: url("https://i.imgur.com/oav6sbW.png");
+    background-image: url("https://i.imgur.com/OZMQqhR.jpg");
     background-size: cover !important;
     background-position: center;
 }
@@ -592,7 +592,7 @@ a:link {
 }
 /* Channels */
 .guild-channels .channel-text .channel-name:before {
-    content: 'ง';
+    content: 'ยง';
     color: rgba(241, 241, 241, 0.61)!important;
 }
 .channel-textarea-inner {
